@@ -3,9 +3,9 @@
 a = int(input("Enter the first number "))
 b = int(input("Enter the second number "))
 print("both the numbers are equal", a == b)
-print("a is grater than b", a > b)
-print("b is grater than a", b >a)
-
+print("a is greater than b", a > b)
+print("b is greater than a", b >a)
+#            OR
 print(a == b)
 print(a > b)
 print(a < b)
